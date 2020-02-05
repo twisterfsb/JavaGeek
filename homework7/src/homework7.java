@@ -1,4 +1,4 @@
-public class homework6 {
+public class homework7 {
     public static void main(String[] args) {
         Cat[] cat = {new Cat("П*др пушистый", 70), new Cat("Реми", 40), new Cat("Селешка", 30)};
         Plate plate = new Plate(100);
