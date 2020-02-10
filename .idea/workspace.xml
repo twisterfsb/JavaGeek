@@ -1,72 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b857abb-1ff7-42c0-a72a-8723f19f2f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaGeek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/.idea/artifacts/homework1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/homework1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/main/java/homework1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/main/java/homework1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/main/java/homework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/src/main/java/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework1/target/classes/homework1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/.idea/artifacts/homework3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/homework3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/homework3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/homework3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/homework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/.idea/artifacts/homework4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/homework4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/out/artifacts/homework4_jar/homework4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/out/production/homework4/homework4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/src/homework4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/src/homework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/artifacts/homework5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/dictionaries/user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/homework5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/out/artifacts/homework5_jar/homework5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/out/production/homework5/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/out/production/homework5/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/out/production/homework5/homework5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/src/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/src/homework5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/src/homework5.java" afterDir="false" />
+    <list default="true" id="2329a18a-3850-4112-b746-fa49f6e7fa1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/.idea/artifacts/homework6_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/.idea/artifacts/homework6_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/homework6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/homework6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework6/src/homework6.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/src/homework6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,9 +48,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="276" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581339857018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="276" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581339857018" />
+    <state x="665" y="439" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581339828257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="439" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581339828257" />
+    <state x="601" y="291" key="FileChooserDialogImpl" timestamp="1581340277256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="291" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581340277256" />
     <state x="444" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581275038523">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="444" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581275038523" />
+    <state x="204" y="125" key="new project wizard" timestamp="1581340288848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="204" y="125" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581340288848" />
   </component>
 </project>
